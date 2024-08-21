@@ -5,6 +5,10 @@
 
 This repository contains the implementation of parallelized K-Means clustering and PCA (Principal Component Analysis) using Python and Numba, aimed at speeding up the computation for large datasets. The project focuses on segmenting credit card users based on their transaction patterns and reducing data dimensionality to extract meaningful insights. These insights are then utilized to propose effective marketing strategies.
 
+## **Members**
+- 20127214: Nguyễn Trương Minh Khôi
+- 20127612: Đỗ Khánh Sang
+
 ## **Project Overview**
 
 ### **1. Objective**
